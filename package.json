@@ -1,0 +1,24 @@
+{
+  "name": "stock-management-system",
+  "version": "1.0.0",
+  "description": "Full-Featured Enterprise Stock Management System using MERN Stack",
+  "scripts": {
+    "start": "node server/index.js",
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "seed": "cd server && npm run seed"
+  },
+  "keywords": [
+    "mern",
+    "mongodb",
+    "express",
+    "react",
+    "nodejs",
+    "stock-management",
+    "inventory-management",
+    "warehouse"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
